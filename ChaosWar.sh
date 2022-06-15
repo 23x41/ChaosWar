@@ -740,7 +740,7 @@ fi
 fi
 
 if [ "$chaos" = true ] ; then
-echo 'YOU ARE A CHAOS MAGICIAN! Scored 64 points'
+echo 'CHAOS MAGICIAN Scored 64 points this deck.'
 fi
 
 
